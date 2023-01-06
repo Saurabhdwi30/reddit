@@ -48,9 +48,6 @@ arsort($result_array);
 
 // getting top 300 words
 $top_3hundred_words = array_slice($result_array, 0, 100);
-// var_dump($top_3hundred_words);
-// die;
-
 ?>
 
 <!DOCTYPE html>
